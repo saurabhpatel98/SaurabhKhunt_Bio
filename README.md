@@ -13,21 +13,20 @@
 </p>
 -->	
 ## **📫 Connect with Me!**
-[![GitHub Badge](https://img.shields.io/badge/-chaithanyavamshi-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/ChaithanyaVamshi/)
-[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanyavsai/) 
-[![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaithanyav.sai@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-chaithanyavsai-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://chaithanyavsai.medium.com/)
+[![GitHub Badge](https://img.shields.io/badge/-chaithanyavamshi-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/saurabhpatel98)
+[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkhunt/) 
+[![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saurabhkhunt.ca@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-chaithanyavsai-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@saurabhkhunt.ca)
 
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
-- 🎓 Master of Science (MSc) in Artificial Intelligence and a Bachelor of Technology (B.Tech) in Computer Science and Engineering.
+- 🎓 Bachelor in Computer Science and Engineering and Graduate Certification in Data analytics in Bussiness.
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring OpenAI, AWS and Microsoft Azure.
 - 🤝 Looking to network with Data Nerds who share the same passion for unveiling insights and solving business problems.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
-- 📝 I write Technical blogs on **[Medium](https://chaithanyavsai.medium.com/)**
-- ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
+- ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Painting and learning new things. 
 
 <!--
 <p align="center">
@@ -120,10 +119,10 @@
 ## **🕵️ Github Profile Stats** 
 </br>
 
-**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chaithanyavamshi.visitor-badge)**
+**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=saurabhpatel98.visitor-badge)**
 <!--![](https://komarev.com/ghpvc/?username=chaithanyavamshi&style=flat-square)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaithanyavamshi&layout=compact&theme=radical&show_icons=true&locale=en" 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel98&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="chaithanyavamshi" width="400"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyavamshi&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel98&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
